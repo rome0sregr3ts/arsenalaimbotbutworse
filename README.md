@@ -8,7 +8,7 @@ if ur a script kiddy on mobile, get out. this UI is optimised for pc.
 
 **- Edit: I have a loadstring now. 
 ---
-loadstring(game:HttpGet("https://githubusercontent.com", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/rome0sregr3ts/arsenalaimbotbutworse/refs/heads/main/AimbotButWorse.lua", true))()
 ---
 
 
