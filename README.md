@@ -7,9 +7,9 @@ if ur a script kiddy on mobile, get out. this UI is optimised for pc.
 
 
 **- Edit: I have a loadstring now. 
-|
-V
+---
 loadstring(game:HttpGet("https://githubusercontent.com", true))()
+---
 
 
 Here's the YouTube video i uploaded about this script. Excuse the lag, I'm on a 2014 Macbook Pro that shouldnt even be alive. - 
